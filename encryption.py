@@ -24,9 +24,6 @@ while (iterator<length):
 print("The Cipher is : ",cipher )
 
 # decrytping the cipher
-
-sys.stdout.write(".")
-sys.stdout.flush()
 sl(5)
 print("Decrypting.....................................")
 
